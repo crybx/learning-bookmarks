@@ -1,7 +1,7 @@
 # Foreign Languages
 
 * [123 Teach Me – Spanish](http://www.123teachme.com/learn_spanish/spanish_grammar_course)
-* [Duolingo](https://www.duolingo.com/) | Spanish, French, German, Portuguese, Italian, and English.
-* [Memrise](http://www.memrise.com/) | Spaced repetition flash card website. Good for lots of things, but languages especially.
-* [Anki](http://ankisrs.net/) | Spaced repetition flash card software you can download.
-* [AnkiWeb](https://ankiweb.net/) | Web companion to the above.
+* [Duolingo](https://www.duolingo.com/) - Spanish, French, German, Portuguese, Italian, and English.
+* [Memrise](http://www.memrise.com/) - Spaced repetition flash card website. Good for lots of things, but languages especially.
+* [Anki](http://ankisrs.net/) - Spaced repetition flash card software you can download.
+* [AnkiWeb](https://ankiweb.net/) - Web companion to the above.

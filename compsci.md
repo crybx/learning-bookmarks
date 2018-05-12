@@ -5,7 +5,7 @@
 
 * See [Books](books.md) for free programming and computer science books.
 * [Articial Intelligence](compsci/ai.md)
-* [Software Development and Coding](software-dev.md)
+* [Software Development and Coding](compsci/software-dev.md)
 
 ## Useful links
 

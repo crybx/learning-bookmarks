@@ -2,7 +2,7 @@
 
 ## Individuals' Websites (and a few group blogs)
 
-1. [Slate Star Codex](http://slatestarcodex.com/) - A blog by Scott Alexander about human cognition, politics, and medicine. (Yvain on the original LessWrong.)
+* [Slate Star Codex](http://slatestarcodex.com/) - A blog by Scott Alexander about human cognition, politics, and medicine. (Yvain on the original LessWrong.)
 * [Overcoming Bias](http://www.overcomingbias.com/archives) - A blog on why we believe and do what we do, why we pretend otherwise, how we might do better, and what our descendants might do, if they don’t all die.
 * [Gwern](http://www.gwern.net/)
 * [Eliezer Yudkowsky's personal website](http://yudkowsky.net/)

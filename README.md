@@ -11,18 +11,15 @@ Some links may be duplicated between pages when they seems relevant to multiple 
 ### General
 
 * [Books](books.md)
+* [Doing Research](research.md)
 * [Online Course Sites](online-courses.md)
 * [General Miscellaneous Resources](misc.md)
 
-### Meta learning
-
-* [Doing Research](research.md)
-* [Rationality](rationality.md)
-
 ### Other Topics
 
-* [Math](math.md)
+* [Meta Learning](meta-learning.md)
 * [Computer Science](compsci.md)
+* [Math](math.md)
 * [Design](design.md)
 * [Writing](writing.md)
 * [Languages](languages.md)

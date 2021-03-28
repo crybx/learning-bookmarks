@@ -1,6 +1,6 @@
 # Learning Bookmarks
 
-The following is my collection of bookmarks for learning related resources, slowly accumulated over the past several years.
+The following is my collection of bookmarks for learning related resources, slowly accumulated over years.
 
 The number of links has grown to the point where keeping them together on one page is overwhelming, so I've created topic pages. Just because I have links on any given topic doesn't mean that *every possible learning resource* for that topic is included as a link. I only save the links I find, and I'm one person who can't (and doesn't try) to find everything. More links accumulate here for topics I personally spend time exploring, but I do include anything I stumble across or am sent by others.
 

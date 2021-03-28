@@ -5,6 +5,7 @@
 * [Slate Star Codex](http://slatestarcodex.com/) - A blog by Scott Alexander about human cognition, politics, and medicine. (Yvain on the original LessWrong.)
 * [Overcoming Bias](http://www.overcomingbias.com/archives) - A blog on why we believe and do what we do, why we pretend otherwise, how we might do better, and what our descendants might do, if they don’t all die.
 * [Gwern](http://www.gwern.net/)
+* [Everything Studies](https://everythingstudies.com/about/)
 * [Eliezer Yudkowsky's personal website](http://yudkowsky.net/)
 * [Unstable Ontology](https://unstableontology.com/) - by Jessica Taylor
 * [Put a num on it](https://putanumonit.com/)

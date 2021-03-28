@@ -16,4 +16,7 @@
 
 ## Subscription or pay per course
 
-* [The Great Courses](https://www.thegreatcourses.com/) - Not free. But high quality and very affordable if you get the lectures through [Audible](https://www.audible.com/mt/TheGreatCourses).
+- [Udemy](https://www.udemy.com/)
+- [Pluralsight](https://www.pluralsight.com/)
+- [The Great Courses](https://www.thegreatcourses.com/) - Not free. But high quality and very affordable if you get the lectures through [Audible](https://www.audible.com/mt/TheGreatCourses).
+- [StackSkills](https://stackskills.com/courses)

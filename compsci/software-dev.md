@@ -14,6 +14,7 @@ concerning the Art and Philosophy of software development, written in the spirit
 * [Code Avengers](http://www.codeavengers.com/#looking)
 * [Treehouse](http://teamtreehouse.com/) - Free with some library cards.
 * [Khan Academy](https://www.khanacademy.org/)
+* [freeCodeCamp](https://www.freecodecamp.org/news/)
 
 ## How to Program
 

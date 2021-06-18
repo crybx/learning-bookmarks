@@ -1,5 +1,9 @@
 # Software Development and Coding
 
+## Games and Puzzles that Involve Programming
+
+* [Gamified Coding](compsci/gamified-coding.md) - Learn to code by playing games or completing challenges. Or play games that involve coding even if you know how to code because you like that kind of thing.
+
 ## Software Development Philosophy and Culture
 
 * [Ward Cunningham’s Wiki](http://c2.com/cgi/wiki)
@@ -32,7 +36,3 @@ concerning the Art and Philosophy of software development, written in the spirit
 
 * [R quick reference sheet](http://cran.r-project.org/doc/contrib/Short-refcard.pdf)
 * [The latest Pelican docs](http://docs.getpelican.com/en/latest/)
-
-## Games and Puzzles that Involve Programming
-
-* [Project Euler – Programming Challenges](http://projecteuler.net/)

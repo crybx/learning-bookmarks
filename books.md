@@ -2,12 +2,20 @@
 
 ## Sources for Free Books
 
-* [Library Genesis](http://libgen.is/) - aka LibGen. Lots of textbooks.
-* [Project Gutenberg](http://www.gutenberg.org/) - Free ebooks.
-* [Wikibooks – the open-content textbooks collection](https://en.wikibooks.org/wiki/Wikibooks:Card_Catalog_Office)
+* Library Genesis aka LibGen - Lots of textbooks.
+  - Current alias domains:
+    - [libgen.rs](http://libgen.rs/)
+    - [libgen.is](http://libgen.is/)
+    - [libgen.st](http://libgen.st/)
+* [Project Gutenberg](http://www.gutenberg.org/) - An online library of free eBooks with a focus on works no longer under copyright.
+- Internet Archive collection links
+  - [Internet Archive eBooks and Texts](eBooks and Texts) - Freely downloadable books and texts.
+  - [Internet Archive Books to Borrow](https://archive.org/details/inlibrary) - Books in this collection may be borrowed by logged in patrons.
+  - [Internet Archive Books Collection](https://archive.org/details/books) - Some books can be freely read and downloaded. Others can be borrowed and read in an online book reader.
+* [Wikibooks](https://en.wikibooks.org/wiki/Wikibooks:Card_Catalog_Office) - An open-content textbooks collection
 * [NASA ebook collection](http://www.nasa.gov/connect/ebooks/index.html)
-* [Over a hundred free Microsoft ebooks](http://blogs.msdn.com/b/mssmallbiz/archive/2014/07/07/largest-collection-of-free-microsoft-ebooks-ever-including-windows-8-1-windows-8-windows-7-office-2013-office-365-office-2010-sharepoint-2013-dynamics-crm-powershell-exchange-server-lync-2013-system-center-azure-cloud-sql.aspx)
 * [Calibre's DRM Free ebook list](http://drmfree.calibre-ebook.com/by/genre)
+- [Humble Bundle Books Bundles](https://www.humblebundle.com/books) - Not free, but lots of interesting, cheap books in limited-time collections. And the money goes to charities.
 
 ### Calishot links
 
@@ -15,7 +23,7 @@ Calishot is a specialized search engine to find books on open Calibre servers.
 
 English:
 - [Mirror 1](https://calishot-eng-1.herokuapp.com/index-eng/summary)
-- [Mirror 1](https://calishot-eng-2.herokuapp.com/index-eng/summary)
+- [Mirror 2](https://calishot-eng-2.herokuapp.com/index-eng/summary)
 - [Mirror 3](https://calishot-eng-3.herokuapp.com/index-eng/summary)
 - [Mirror 4](https://calishot-eng-4.herokuapp.com/index-eng/summary)
 - [Mirror 5](https://calishot-eng-5.herokuapp.com/index-eng/summary)

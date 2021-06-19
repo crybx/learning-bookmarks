@@ -49,3 +49,5 @@ Games with elements of coding in them.
 
 - [Quora answer about best games for programmers](https://www.quora.com/What-are-the-best-games-out-there-for-programmers)
 - http://www.alice.org/ - make games and animations?
+- [The 9 Best Coding Games Online for Adults to Learn How to Code](https://www.freecodecamp.org/news/best-coding-games-online-adults-learn-to-code/)
+- [20 Programming Games to Level Up Your Programming Skills](https://x-team.com/blog/coding-games/)

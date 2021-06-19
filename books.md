@@ -4,8 +4,8 @@
 
 * Library Genesis aka LibGen - Lots of textbooks.
   - Current alias domains:
-    - [libgen.rs](http://libgen.rs/)
     - [libgen.is](http://libgen.is/)
+    - [libgen.rs](http://libgen.rs/)
     - [libgen.st](http://libgen.st/)
 * [Project Gutenberg](http://www.gutenberg.org/) - An online library of free eBooks with a focus on works no longer under copyright.
 - Internet Archive collection links

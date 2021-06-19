@@ -2,7 +2,7 @@
 
 ## Games and Puzzles that Involve Programming
 
-* [Gamified Coding](compsci/gamified-coding.md) - Learn to code by playing games or completing challenges. Or play games that involve coding even if you know how to code because you like that kind of thing.
+* [Gamified Coding](gamified-coding.md) - Learn to code by playing games or completing challenges. Or play games that involve coding even if you know how to code because you like that kind of thing.
 
 ## Software Development Philosophy and Culture
 

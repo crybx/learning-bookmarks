@@ -1,6 +1,6 @@
 # Rationality
 
-## My Favorite Rationality References
+## Rationality References
 
 * [Decision Theory FAQ](http://lesswrong.com/lw/gu1/decision_theory_faq/)
 * [Thou shalt not commit logical fallacies](https://yourlogicalfallacyis.com/)

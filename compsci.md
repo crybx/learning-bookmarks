@@ -4,7 +4,7 @@
 ## Topics on Other Pages
 
 * See [Books](books.md) for free programming and computer science books.
-* [Articial Intelligence](compsci/ai.md)
+* [Artificial Intelligence](compsci/ai.md)
 * [Software Development and Coding](compsci/software-dev.md)
 * [Gamified Coding](compsci/gamified-coding.md) - Learn to code by playing games or completing challenges. Or play games that involve coding even if you know how to code because you like that kind of thing.
 
@@ -14,6 +14,10 @@
 * [SmartScholar's Computer Science Education Resource Guide](http://www.smartscholar.com/computer-science-guide/)
 * [Mathematics for Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/) - A course through MIT OpenCourseWare.
 * [A Beginner's Guide to Computer Science](http://www.jamesmaa.com/2013/08/26/a-beginners-guide-to-computer-science/)
+
+## Networking
+
+- [Shodan](https://help.shodan.io/the-basics/what-is-shodan) - A search engine for Internet-connected devices.
 
 ## Miscellaneous Tutorials
 

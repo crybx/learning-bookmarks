@@ -2,12 +2,29 @@
 
 ## Sources for Free Books
 
-* [Library Genesis](http://www.libgen.io/) - Lots of textbooks.
+* [Library Genesis](http://libgen.is/) - aka LibGen. Lots of textbooks.
 * [Project Gutenberg](http://www.gutenberg.org/) - Free ebooks.
 * [Wikibooks – the open-content textbooks collection](https://en.wikibooks.org/wiki/Wikibooks:Card_Catalog_Office)
 * [NASA ebook collection](http://www.nasa.gov/connect/ebooks/index.html)
 * [Over a hundred free Microsoft ebooks](http://blogs.msdn.com/b/mssmallbiz/archive/2014/07/07/largest-collection-of-free-microsoft-ebooks-ever-including-windows-8-1-windows-8-windows-7-office-2013-office-365-office-2010-sharepoint-2013-dynamics-crm-powershell-exchange-server-lync-2013-system-center-azure-cloud-sql.aspx)
 * [Calibre's DRM Free ebook list](http://drmfree.calibre-ebook.com/by/genre)
+
+### Calishot links
+
+Calishot is a specialized search engine to find books on open Calibre servers.
+
+English:
+- [Mirror 1](https://calishot-eng-1.herokuapp.com/index-eng/summary)
+- [Mirror 1](https://calishot-eng-2.herokuapp.com/index-eng/summary)
+- [Mirror 3](https://calishot-eng-3.herokuapp.com/index-eng/summary)
+- [Mirror 4](https://calishot-eng-4.herokuapp.com/index-eng/summary)
+- [Mirror 5](https://calishot-eng-5.herokuapp.com/index-eng/summary)
+
+Non English:
+- [Mirror 1](https://calishot-non-eng-1.herokuapp.com/index-non-eng/summary)
+
+Calishot updates on Reddit:
+- [CALISHOT 2021-06](https://www.reddit.com/r/opendirectories/comments/nugkl3/calishot_202106_find_ebooks_among_383_calibre/)
 
 ## Free Programming and Computer Science Books
 

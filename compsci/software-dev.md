@@ -11,7 +11,7 @@
 concerning the Art and Philosophy of software development, written in the spirit of Zen kōans.
 * [97 Things Every Programmer Should Know](http://programmer.97things.oreilly.com/wiki/index.php/Contributions_Appearing_in_the_Book)
 
-## Online Courses and Tutorial Websites
+## Courses and Tutorials Websites
 
 * [Code School](https://www.codeschool.com/)
 * [Codeacademy](http://www.codecademy.com/)

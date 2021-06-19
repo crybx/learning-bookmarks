@@ -2,7 +2,8 @@
 
 ## Individuals' Websites (and a few group blogs)
 
-* [Slate Star Codex](http://slatestarcodex.com/) - A blog by Scott Alexander about human cognition, politics, and medicine. (Yvain on the original LessWrong.)
+* [Slate Star Codex](http://slatestarcodex.com/) - A blog by Scott Alexander about human cognition, politics, and medicine. Currently an archive of past posts without new posts. (Yvain on the original LessWrong.)
+* [Astral Codex Ten](https://astralcodexten.substack.com/) - Scott Alexander's new blogging site.
 * [Overcoming Bias](http://www.overcomingbias.com/archives) - A blog on why we believe and do what we do, why we pretend otherwise, how we might do better, and what our descendants might do, if they don’t all die.
 * [Gwern](http://www.gwern.net/)
 * [Everything Studies](https://everythingstudies.com/about/)

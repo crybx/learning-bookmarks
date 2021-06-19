@@ -35,8 +35,8 @@ Games with elements of coding in them.
 ### Games Where You Make Games
 
 - RPG Maker series
-- Game Builder Garage (2021 - Switch)
-- Dreams (PS4/PS5)
+- [Game Builder Garage](https://www.nintendo.com/games/detail/game-builder-garage-switch) (2021 - Switch)
+- [Dreams](https://store.playstation.com/en-us/product/UP9000-CUSA08010_00-DREAMS0000000000) (PS4/PS5)
 
 ## Coding Challenges
 

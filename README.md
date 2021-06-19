@@ -1,25 +1,26 @@
-# Learning Bookmarks
+# What is this place?
 
-The following is my collection of bookmarks for learning related resources, slowly accumulated over years.
+The is my collection of learning related bookmarks, slowly accumulated over years.
 
-The number of links has grown to the point where keeping them together on one page is overwhelming, so I've created topic pages. Just because I have links on any given topic doesn't mean that *every possible learning resource* for that topic is included as a link. I only save the links I find, and I'm one person who can't (and doesn't try) to find everything. More links accumulate here for topics I personally spend time exploring, but I do include anything I stumble across or am sent by others.
+The number of links has grown to the point where keeping them all on one page is overwhelming, so I've created topic pages. Just because I have links on any given topic doesn't mean that *every possible link* for that topic is included. I'm just one person and I don't try to find everything.
 
-Some links may be duplicated between pages when they seems relevant to multiple topics.
+More links accumulate here for topics I personally spend time exploring, but I do try to include anything I stumble across or am sent by others. Some links may be duplicated between pages when they seem relevant to multiple topics.
 
-## Contents
+### Topic Pages
 
-### General
+- [Books](books.md)
+- [Computer Science](compsci.md)
+  - [Artificial Intelligence](compsci/ai.md)
+  - [Gamified Coding](compsci/gamified-coding.md)
+  - [Software Development](compsci/software-dev.md)
+- [Courses and Tutorials Sites](course-sites.md)
+- [Design](design.md)
+- [Research](research.md) - How to do research.
+- [Languages](languages.md)
+- [Math](math.md)
+- [Meta Learning](meta-learning.md) - Learning about learning.
+- [Writing](writing.md)
 
-* [Books](books.md)
-* [Doing Research](research.md)
-* [Online Course Sites](online-courses.md)
-* [General Miscellaneous Resources](misc.md)
+### Miscellaneous
 
-### Other Topics
-
-* [Meta Learning](meta-learning.md)
-* [Computer Science](compsci.md)
-* [Math](math.md)
-* [Design](design.md)
-* [Writing](writing.md)
-* [Languages](languages.md)
+- [General Miscellaneous Resources](misc.md)

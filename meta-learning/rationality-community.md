@@ -1,7 +1,7 @@
 ## Organizations
 
 * [Center for Applied Rationality](https://rationality.org) - CFAR cultivates a robust rationality community that applies rationality to varied problems.
-* [Machine Intelligence Research Institute](https://intelligence.org) - MIRI performs foundational mathematical research to ensure smarter-than-human artificial intelligence has a positive impact.
+* [Machine Intelligence Research Institute](https://intelligence.org) - MIRI performs mathematical research to ensure smarter-than-human artificial intelligence has a positive impact.
 * [80,000 Hours](http://80000hours.org/)
 * [Future of Humanity Institue](https://www.fhi.ox.ac.uk/) - FHI is a multidisciplinary research institute at the University of Oxford. Academics at FHI bring the tools of mathematics, philosophy, social sciences, and science to bear on big-picture questions about humanity and its prospects.
 * [GiveWell](http://www.givewell.org/)

@@ -8,6 +8,7 @@
     - [libgen.rs](http://libgen.rs/)
     - [libgen.st](http://libgen.st/)
 * [Project Gutenberg](http://www.gutenberg.org/) - An online library of free eBooks with a focus on works no longer under copyright.
+* https://standardebooks.org/ - A collection of free public domain ebooks. This website standardizes public domain books with good paragraph/line spacing, chapter links, etc.
 - Internet Archive collection links
   - [Internet Archive eBooks and Texts](eBooks and Texts) - Freely downloadable books and texts.
   - [Internet Archive Books to Borrow](https://archive.org/details/inlibrary) - Books in this collection may be borrowed by logged in patrons.
@@ -27,12 +28,19 @@ English:
 - [Mirror 3](https://calishot-eng-3.herokuapp.com/index-eng/summary)
 - [Mirror 4](https://calishot-eng-4.herokuapp.com/index-eng/summary)
 - [Mirror 5](https://calishot-eng-5.herokuapp.com/index-eng/summary)
+- [April 2022 calishot](https://eng.calishot.xyz/index-eng/summary)
 
 Non English:
 - [Mirror 1](https://calishot-non-eng-1.herokuapp.com/index-non-eng/summary)
 
 Calishot updates on Reddit:
 - [CALISHOT 2021-06](https://www.reddit.com/r/opendirectories/comments/nugkl3/calishot_202106_find_ebooks_among_383_calibre/)
+
+## Libraries
+
+Your local library, plus many non-local ones, will allow you to check out ebooks for free.
+
+Example: If you live in New York State, the [NY Public Library](https://nypl.org/) has a pretty extensive ebook collection for loan.
 
 ## Free Programming and Computer Science Books
 

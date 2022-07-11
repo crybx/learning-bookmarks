@@ -1,4 +1,3 @@
-
 # Gamified Coding
 
 ## Code Games
@@ -40,10 +39,13 @@ Games with elements of coding in them.
 
 ## Coding Challenges
 
+- [CodinGame](https://www.hackerrank.com/)
 - [Project Euler](https://projecteuler.net/)
     - Project Euler is a series of challenging mathematical/computer programming problems.
 - http://www.hacker.org/
 - http://www.pythonchallenge.com/
+- [HackerRank](https://www.hackerrank.com/)
+- [CodeWars](https://www.codewars.com)
 
 ## Other Links
 

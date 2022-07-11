@@ -13,10 +13,15 @@
 * [Harvard Open Courses for Free](http://www.extension.harvard.edu/open-learning-initiative)
 * [Class Central](https://www.class-central.com/)
 
+## Subscriptions with Trials
+
+A note about trials: if they don't require payment info up front, you could continue access after a trial ends by signing up with a different email address.
+
+* [JetBrains Academy](https://www.jetbrains.com/academy/) - Over two months of trial time available.
 
 ## Subscription or pay per course
 
-- [Udemy](https://www.udemy.com/)
+- [Udemy](https://www.udemy.com/) - Courses can be grabbed for cheap during frequent sales.
 - [Pluralsight](https://www.pluralsight.com/)
 - [The Great Courses](https://www.thegreatcourses.com/) - Not free. But high quality and very affordable if you get the lectures through [Audible](https://www.audible.com/mt/TheGreatCourses).
 - [StackSkills](https://stackskills.com/courses)

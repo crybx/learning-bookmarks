@@ -5,8 +5,11 @@
 
 * See [Books](books.md) for free programming and computer science books.
 * [Artificial Intelligence](compsci/ai.md)
-* [Software Development and Coding](compsci/software-dev.md)
+* [Blockchain](compsci/blockchain.md)
 * [Gamified Coding](compsci/gamified-coding.md) - Learn to code by playing games or completing challenges. Or play games that involve coding even if you know how to code because you like that kind of thing.
+* [Privacy](compsci/privacy.md)
+* [Software Development and Coding](compsci/software-dev.md)
+
 
 ## Useful links
 

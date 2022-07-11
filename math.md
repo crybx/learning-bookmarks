@@ -1,4 +1,4 @@
-# Math
+# Learning Bookmarks: Math
 
 * [Khan Academy](https://www.khanacademy.org/math) - Has tons of math tutorials and quizzes, ranging from kindergarten up to multivariable calculus, differential equations, and linear algebra.
 * [What is discrete mathematics?](https://en.wikipedia.org/wiki/Discrete_mathematics)

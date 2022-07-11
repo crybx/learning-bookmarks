@@ -1,4 +1,4 @@
-# Gamified Coding
+# Learning Bookmarks: Gamified Coding
 
 ## Code Games
 

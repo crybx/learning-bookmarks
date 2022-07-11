@@ -1,4 +1,4 @@
-# Artificial Intelligence
+# Learning Bookmarks: Artificial Intelligence
 
 * [Facing the Intelligence Explosion](http://intelligenceexplosion.com/)
 * [Courses recommended by MIRI](https://intelligence.org/research-guide/), the Machine Intelligence Research Institute.

@@ -1,4 +1,4 @@
-# Foreign Languages
+# Learning Bookmarks: Foreign Languages
 
 * [123 Teach Me – Spanish](http://www.123teachme.com/learn_spanish/spanish_grammar_course)
 * [Duolingo](https://www.duolingo.com/) - Spanish, French, German, Portuguese, Italian, and English, Japanese, Russian, and probably more.

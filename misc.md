@@ -1,4 +1,4 @@
-# General Miscellaneous Resources
+# Learning Bookmarks: Miscellaneous Resources
 
 These may ultimately end up sorted into other topics.
 
